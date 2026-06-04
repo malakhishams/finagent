@@ -1,0 +1,60 @@
+=====================================================
+NEXORA TECHNOLOGIES INC.
+=====================================================
+Financial Report — Fiscal Year 2024
+=====================================================
+
+
+EXECUTIVE SUMMARY
+---------------------------------
+Nexora Technologies delivered strong growth in fiscal 2024, driven by expansion 
+into new markets and increased enterprise adoption of its cloud platform.
+
+-----------------------------------------------------------------------------------------------
+
+Q3 2024 FINANCIAL HIGHLIGHTS
+-----------------------------------
+- Total Revenue: $5.2 million
+- Operating Expenses: $3.1 million
+- Gross Profit: $2.1 million
+- Profit Margin: 40.4%
+- Customer Acquisitions: 320 new enterprise clients
+- Customer Acquisition Cost (CAC): $1,200 per client
+-------------------------------------------------------------------------------------------------
+
+Q4 2024 FINANCIAL HIGHLIGHTS
+------------------------------------
+- Total Revenue: $6.8 million
+- Operating Expenses: $4.0 million
+- Gross Profit: $2.8 million
+- Profit Margin: 41.2%
+- Customer Acquisitions: 410 new enterprise clients
+- Customer Acquisition Cost (CAC): $1,056 per client (down 12% from Q3)
+-----------------------------------------------------------------------------------------------
+
+-------------------
+ANNUAL SUMMARY 
+-------------------
+- Total Annual Revenue: $22.4 million
+- Total Annual Expenses: $14.1 million
+- Annual Profit Margin: 37.1%
+- Total New Clients: 1,200 enterprise clients
+--------------------------------------------------------------------------------------------
+
+BUSINESS HIGHLIGHTS
+--------------------
+- Expanded into 3 new markets: Saudi Arabia, Germany, and Brazil
+- Launched NexoraCloud 2.0 with AI-powered analytics in Q4
+- Reduced infrastructure costs by 18% through serverless migration
+- Employee headcount grew from 180 to 240
+-----------------------------------------------------------------------------------------
+
+RISKS AND CHALLENGES
+--------------------------
+- Increased competition in the EU market
+- Rising cloud infrastructure costs in Q3
+- Regulatory compliance costs in new markets estimated at $400,000
+
+========================================================================================================
+END OF REPORT
+========================================================================================================
